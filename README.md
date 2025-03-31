@@ -14,7 +14,7 @@
 ## Training Details
 - **Loss Function**: Categorical Crossentropy
 - **Optimizer**: Adam
-- **Epochs**: 10 (adjusted for performance)
+- **Epochs**: 30 
 - **Batch Size**: 32
 - **Validation Split**: 20%
 
